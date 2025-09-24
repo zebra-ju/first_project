@@ -1,0 +1,5 @@
+*.log
+logs/*
+*tmp
+!rare_critical_logs.log
+
